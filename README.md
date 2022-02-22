@@ -1,10 +1,10 @@
 # Our Project: ShopWhat
 
 ShopWhat is an e-commerce platform that originated in Singapore and offers a wide range of items especially sports products to customers. Through strong payment and logistical support, the website provides a easy, secure, and fast online shopping experience.<br>
-https://erikkmg.github.io/IP-Website/
 This website/project is done by:<br>
 Front-end developer: Neu You Sheng;<br>
 API developer: Kyan Foo Zhi Kai.
+https://erikkmg.github.io/IP-Website/
 
 
 #Design Process
